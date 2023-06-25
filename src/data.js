@@ -44,10 +44,7 @@ const data = [
     id: 'g',
     src: '/images/mark-stoop-lizard.jpg',
     alt: 'A relaxed green lizard, sitting on a wooden beam',
-    tags: [
-      'lizard',
-      'world-famous insurance salesman from the commercials',
-    ],
+    tags: ['lizard', 'world-famous insurance salesman from the commercials'],
   },
   {
     id: 'h',
